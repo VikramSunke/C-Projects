@@ -1,0 +1,14 @@
+D:\.Net_Training\Flight\Flight\bin\Debug\net8.0\Flights.exe
+D:\.Net_Training\Flight\Flight\bin\Debug\net8.0\Flights.deps.json
+D:\.Net_Training\Flight\Flight\bin\Debug\net8.0\Flights.runtimeconfig.json
+D:\.Net_Training\Flight\Flight\bin\Debug\net8.0\Flights.dll
+D:\.Net_Training\Flight\Flight\bin\Debug\net8.0\Flights.pdb
+D:\.Net_Training\Flight\Flight\obj\Debug\net8.0\Flights.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Training\Flight\Flight\obj\Debug\net8.0\Flights.AssemblyInfoInputs.cache
+D:\.Net_Training\Flight\Flight\obj\Debug\net8.0\Flights.AssemblyInfo.cs
+D:\.Net_Training\Flight\Flight\obj\Debug\net8.0\Flights.csproj.CoreCompileInputs.cache
+D:\.Net_Training\Flight\Flight\obj\Debug\net8.0\Flights.dll
+D:\.Net_Training\Flight\Flight\obj\Debug\net8.0\refint\Flights.dll
+D:\.Net_Training\Flight\Flight\obj\Debug\net8.0\Flights.pdb
+D:\.Net_Training\Flight\Flight\obj\Debug\net8.0\Flights.genruntimeconfig.cache
+D:\.Net_Training\Flight\Flight\obj\Debug\net8.0\ref\Flights.dll

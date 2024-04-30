@@ -1,0 +1,15 @@
+D:\Repos\.Net\CRUDTask\CRUDTask\bin\Debug\net8.0\CRUDTask.exe
+D:\Repos\.Net\CRUDTask\CRUDTask\bin\Debug\net8.0\CRUDTask.deps.json
+D:\Repos\.Net\CRUDTask\CRUDTask\bin\Debug\net8.0\CRUDTask.runtimeconfig.json
+D:\Repos\.Net\CRUDTask\CRUDTask\bin\Debug\net8.0\CRUDTask.dll
+D:\Repos\.Net\CRUDTask\CRUDTask\bin\Debug\net8.0\CRUDTask.pdb
+D:\Repos\.Net\CRUDTask\CRUDTask\obj\Debug\net8.0\CRUDTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\.Net\CRUDTask\CRUDTask\obj\Debug\net8.0\CRUDTask.AssemblyInfoInputs.cache
+D:\Repos\.Net\CRUDTask\CRUDTask\obj\Debug\net8.0\CRUDTask.AssemblyInfo.cs
+D:\Repos\.Net\CRUDTask\CRUDTask\obj\Debug\net8.0\CRUDTask.csproj.CoreCompileInputs.cache
+D:\Repos\.Net\CRUDTask\CRUDTask\obj\Debug\net8.0\CRUDTask.sourcelink.json
+D:\Repos\.Net\CRUDTask\CRUDTask\obj\Debug\net8.0\CRUDTask.dll
+D:\Repos\.Net\CRUDTask\CRUDTask\obj\Debug\net8.0\refint\CRUDTask.dll
+D:\Repos\.Net\CRUDTask\CRUDTask\obj\Debug\net8.0\CRUDTask.pdb
+D:\Repos\.Net\CRUDTask\CRUDTask\obj\Debug\net8.0\CRUDTask.genruntimeconfig.cache
+D:\Repos\.Net\CRUDTask\CRUDTask\obj\Debug\net8.0\ref\CRUDTask.dll

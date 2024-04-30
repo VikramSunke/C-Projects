@@ -1,0 +1,14 @@
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\obj\Debug\net8.0\ExceptionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\obj\Debug\net8.0\ExceptionsDemo.AssemblyInfoInputs.cache
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\obj\Debug\net8.0\ExceptionsDemo.AssemblyInfo.cs
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\obj\Debug\net8.0\ExceptionsDemo.csproj.CoreCompileInputs.cache
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\bin\Debug\net8.0\ExceptionsDemo.exe
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\bin\Debug\net8.0\ExceptionsDemo.deps.json
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\bin\Debug\net8.0\ExceptionsDemo.runtimeconfig.json
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\bin\Debug\net8.0\ExceptionsDemo.dll
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\bin\Debug\net8.0\ExceptionsDemo.pdb
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\obj\Debug\net8.0\ExceptionsDemo.dll
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\obj\Debug\net8.0\refint\ExceptionsDemo.dll
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\obj\Debug\net8.0\ExceptionsDemo.pdb
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\obj\Debug\net8.0\ExceptionsDemo.genruntimeconfig.cache
+D:\.Net_Training\ExceptionsDemo\ExceptionsDemo\obj\Debug\net8.0\ref\ExceptionsDemo.dll

@@ -1,0 +1,14 @@
+D:\.Net_Training\Banking32\Banking32\bin\Debug\net8.0\Banking32.exe
+D:\.Net_Training\Banking32\Banking32\bin\Debug\net8.0\Banking32.deps.json
+D:\.Net_Training\Banking32\Banking32\bin\Debug\net8.0\Banking32.runtimeconfig.json
+D:\.Net_Training\Banking32\Banking32\bin\Debug\net8.0\Banking32.dll
+D:\.Net_Training\Banking32\Banking32\bin\Debug\net8.0\Banking32.pdb
+D:\.Net_Training\Banking32\Banking32\obj\Debug\net8.0\Banking32.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Training\Banking32\Banking32\obj\Debug\net8.0\Banking32.AssemblyInfoInputs.cache
+D:\.Net_Training\Banking32\Banking32\obj\Debug\net8.0\Banking32.AssemblyInfo.cs
+D:\.Net_Training\Banking32\Banking32\obj\Debug\net8.0\Banking32.csproj.CoreCompileInputs.cache
+D:\.Net_Training\Banking32\Banking32\obj\Debug\net8.0\Banking32.dll
+D:\.Net_Training\Banking32\Banking32\obj\Debug\net8.0\refint\Banking32.dll
+D:\.Net_Training\Banking32\Banking32\obj\Debug\net8.0\Banking32.pdb
+D:\.Net_Training\Banking32\Banking32\obj\Debug\net8.0\Banking32.genruntimeconfig.cache
+D:\.Net_Training\Banking32\Banking32\obj\Debug\net8.0\ref\Banking32.dll

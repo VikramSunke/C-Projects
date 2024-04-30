@@ -1,0 +1,136 @@
+.bgimage{
+    position: relative;
+    width: fit-content;
+    text-align: center;
+}
+.bgimage img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.navbars{
+    background-color: white;
+    position: absolute;
+    top: 5%;
+    left:10%;
+    width: 80%;
+    height:10%;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 25px;
+}
+.logo {
+    margin-left:30px;
+    padding: 10px;            
+    max-width: 100px; 
+    margin-right: 20px; 
+}
+nav{
+    display: flex;
+    width: 74%;
+    margin: auto;
+    padding: px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbars nav ul{
+    display: flex;
+    list-style: none;
+    margin-left: 300px;
+    margin: 10px 20px;
+}
+nav ul{
+    justify-content: space-around;
+    padding-left: 20%;
+}
+nav ul li{
+    margin: 25px;
+    list-style: none;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.icons ul{
+    color: black;
+    margin: 20px;
+    display: flex;    
+    justify-content: space-around;
+    list-style: none;
+
+}
+.icons ul li{
+    padding:10px;
+}
+
+span{
+    justify-content: space-between;
+
+}
+
+.headlines 
+{
+position: absolute;
+color: white;
+top: 35%;
+left: 10%;
+width: 80%;
+text-align: left;
+margin-left: 10%;
+
+}
+h3{
+font-family: cursive;
+}
+
+h1 {
+
+color: white;
+font-size: 3em; 
+position: relative; 
+margin-bottom: 10px; 
+text-align: left;
+
+}
+
+
+.itemsList {
+margin-top: 20px;
+}
+
+.itemsList p {
+color: white;
+
+}
+
+.order {
+background-color: orangered;
+padding: 10px;
+padding-left: 30px;
+padding-right: 30px;
+margin: 5px;
+text-align: center;
+color: white;
+font-size: 15px;
+margin-top: 20px;
+border-radius: 5px;
+}
+
+.charge {
+color: white;
+font-size: 1.2em;
+font-weight: bold;
+margin-top: 5px; 
+}
+
+.chargeup {
+color: red;
+font-size: 1em;
+padding-bottom: 10px;
+margin-top: 5px; 
+font-weight: bold;
+}

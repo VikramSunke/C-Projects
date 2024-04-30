@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Training\\ConstructorDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C45893CF-C010-4ACD-AF5B-FAE0A45EA540}|ConstructorDemo\\ConstructorDemo.csproj|d:\\.net_training\\constructordemo\\constructordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45893CF-C010-4ACD-AF5B-FAE0A45EA540}|ConstructorDemo\\ConstructorDemo.csproj|solutionrelative:constructordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ConstructorDemo\\ConstructorDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructorDemo\\Program.cs",
+              "ToolTip": "D:\\.Net_Training\\ConstructorDemo\\ConstructorDemo\\Program.cs",
+              "RelativeToolTip": "ConstructorDemo\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:17:34.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

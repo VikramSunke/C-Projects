@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Training\\GenericsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20AB194A-AFEB-469B-82C2-52D2519D44E4}|GenericsDemo\\GenericsDemo.csproj|d:\\.net_training\\genericsdemo\\genericsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20AB194A-AFEB-469B-82C2-52D2519D44E4}|GenericsDemo\\GenericsDemo.csproj|solutionrelative:genericsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AB194A-AFEB-469B-82C2-52D2519D44E4}|GenericsDemo\\GenericsDemo.csproj|d:\\.net_training\\genericsdemo\\genericsdemo\\studentmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20AB194A-AFEB-469B-82C2-52D2519D44E4}|GenericsDemo\\GenericsDemo.csproj|solutionrelative:genericsdemo\\studentmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20AB194A-AFEB-469B-82C2-52D2519D44E4}|GenericsDemo\\GenericsDemo.csproj|d:\\.net_training\\genericsdemo\\genericsdemo\\studentoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20AB194A-AFEB-469B-82C2-52D2519D44E4}|GenericsDemo\\GenericsDemo.csproj|solutionrelative:genericsdemo\\studentoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentOperations.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\GenericsDemo\\GenericsDemo\\StudentOperations.cs",
+              "RelativeDocumentMoniker": "GenericsDemo\\StudentOperations.cs",
+              "ToolTip": "D:\\.Net_Training\\GenericsDemo\\GenericsDemo\\StudentOperations.cs",
+              "RelativeToolTip": "GenericsDemo\\StudentOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:56:49.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentModal.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\GenericsDemo\\GenericsDemo\\StudentModal.cs",
+              "RelativeDocumentMoniker": "GenericsDemo\\StudentModal.cs",
+              "ToolTip": "D:\\.Net_Training\\GenericsDemo\\GenericsDemo\\StudentModal.cs",
+              "RelativeToolTip": "GenericsDemo\\StudentModal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:56:24.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\GenericsDemo\\GenericsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericsDemo\\Program.cs",
+              "ToolTip": "D:\\.Net_Training\\GenericsDemo\\GenericsDemo\\Program.cs",
+              "RelativeToolTip": "GenericsDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:50:13.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

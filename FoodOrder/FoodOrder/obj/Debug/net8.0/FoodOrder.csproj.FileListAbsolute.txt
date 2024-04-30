@@ -1,0 +1,14 @@
+D:\.Net_Training\FoodOrder\FoodOrder\bin\Debug\net8.0\FoodOrder.exe
+D:\.Net_Training\FoodOrder\FoodOrder\bin\Debug\net8.0\FoodOrder.deps.json
+D:\.Net_Training\FoodOrder\FoodOrder\bin\Debug\net8.0\FoodOrder.runtimeconfig.json
+D:\.Net_Training\FoodOrder\FoodOrder\bin\Debug\net8.0\FoodOrder.dll
+D:\.Net_Training\FoodOrder\FoodOrder\bin\Debug\net8.0\FoodOrder.pdb
+D:\.Net_Training\FoodOrder\FoodOrder\obj\Debug\net8.0\FoodOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Training\FoodOrder\FoodOrder\obj\Debug\net8.0\FoodOrder.AssemblyInfoInputs.cache
+D:\.Net_Training\FoodOrder\FoodOrder\obj\Debug\net8.0\FoodOrder.AssemblyInfo.cs
+D:\.Net_Training\FoodOrder\FoodOrder\obj\Debug\net8.0\FoodOrder.csproj.CoreCompileInputs.cache
+D:\.Net_Training\FoodOrder\FoodOrder\obj\Debug\net8.0\FoodOrder.dll
+D:\.Net_Training\FoodOrder\FoodOrder\obj\Debug\net8.0\refint\FoodOrder.dll
+D:\.Net_Training\FoodOrder\FoodOrder\obj\Debug\net8.0\FoodOrder.pdb
+D:\.Net_Training\FoodOrder\FoodOrder\obj\Debug\net8.0\FoodOrder.genruntimeconfig.cache
+D:\.Net_Training\FoodOrder\FoodOrder\obj\Debug\net8.0\ref\FoodOrder.dll

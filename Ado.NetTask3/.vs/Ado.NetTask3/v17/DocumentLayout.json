@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\.Net\\Ado.NetTask3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949FF8A2-88BC-4576-A606-A5AA9E59D0C8}|..\\SQLDemo\\SQLDemo\\SQLDemo.csproj|d:\\repos\\.net\\sqldemo\\sqldemo\\carsactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949FF8A2-88BC-4576-A606-A5AA9E59D0C8}|..\\SQLDemo\\SQLDemo\\SQLDemo.csproj|d:\\repos\\.net\\sqldemo\\sqldemo\\crudmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/CarsDB/True/SqlTable/dbo.CarsTable.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538A1074-0B07-433F-BBFB-769764744609}|Ado.NetTask3\\Ado.NetTask3.csproj|d:\\repos\\.net\\ado.nettask3\\ado.nettask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538A1074-0B07-433F-BBFB-769764744609}|Ado.NetTask3\\Ado.NetTask3.csproj|solutionrelative:ado.nettask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.CarsTable [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/CarsDB/True/SqlTable/dbo.CarsTable.sql",
+              "ToolTip": "dbo.CarsTable [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-29T16:44:02.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsActions.cs",
+              "DocumentMoniker": "D:\\Repos\\.Net\\SQLDemo\\SQLDemo\\CarsActions.cs",
+              "RelativeDocumentMoniker": "..\\SQLDemo\\SQLDemo\\CarsActions.cs",
+              "ToolTip": "D:\\Repos\\.Net\\SQLDemo\\SQLDemo\\CarsActions.cs",
+              "RelativeToolTip": "..\\SQLDemo\\SQLDemo\\CarsActions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:01:31.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crudMethods.cs",
+              "DocumentMoniker": "D:\\Repos\\.Net\\SQLDemo\\SQLDemo\\crudMethods.cs",
+              "RelativeDocumentMoniker": "..\\SQLDemo\\SQLDemo\\crudMethods.cs",
+              "ToolTip": "D:\\Repos\\.Net\\SQLDemo\\SQLDemo\\crudMethods.cs",
+              "RelativeToolTip": "..\\SQLDemo\\SQLDemo\\crudMethods.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwFUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:00:40.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\.Net\\Ado.NetTask3\\Ado.NetTask3\\Program.cs",
+              "RelativeDocumentMoniker": "Ado.NetTask3\\Program.cs",
+              "ToolTip": "D:\\Repos\\.Net\\Ado.NetTask3\\Ado.NetTask3\\Program.cs",
+              "RelativeToolTip": "Ado.NetTask3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:59:40.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

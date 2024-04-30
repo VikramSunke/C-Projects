@@ -1,0 +1,6 @@
+D:\Repos\.Net\Ado.NetTask2\Ado.NetTask2\obj\Debug\net8.0\Ado.NetTask2.csproj.AssemblyReference.cache
+D:\Repos\.Net\Ado.NetTask2\Ado.NetTask2\obj\Debug\net8.0\Ado.NetTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\.Net\Ado.NetTask2\Ado.NetTask2\obj\Debug\net8.0\Ado.NetTask2.AssemblyInfoInputs.cache
+D:\Repos\.Net\Ado.NetTask2\Ado.NetTask2\obj\Debug\net8.0\Ado.NetTask2.AssemblyInfo.cs
+D:\Repos\.Net\Ado.NetTask2\Ado.NetTask2\obj\Debug\net8.0\Ado.NetTask2.csproj.CoreCompileInputs.cache
+D:\Repos\.Net\Ado.NetTask2\Ado.NetTask2\obj\Debug\net8.0\Ado.NetTask2.sourcelink.json

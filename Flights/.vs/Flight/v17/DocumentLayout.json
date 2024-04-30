@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Training\\Flights\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73FE8F3C-9EF3-42A1-9D1E-CD00279F6F33}|Flight\\Flights.csproj|d:\\.net_training\\flights\\flight\\international.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FE8F3C-9EF3-42A1-9D1E-CD00279F6F33}|Flight\\Flights.csproj|solutionrelative:flight\\international.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FE8F3C-9EF3-42A1-9D1E-CD00279F6F33}|Flight\\Flights.csproj|d:\\.net_training\\flights\\flight\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FE8F3C-9EF3-42A1-9D1E-CD00279F6F33}|Flight\\Flights.csproj|solutionrelative:flight\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FE8F3C-9EF3-42A1-9D1E-CD00279F6F33}|Flight\\Flights.csproj|d:\\.net_training\\flights\\flight\\domestic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FE8F3C-9EF3-42A1-9D1E-CD00279F6F33}|Flight\\Flights.csproj|solutionrelative:flight\\domestic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FE8F3C-9EF3-42A1-9D1E-CD00279F6F33}|Flight\\Flights.csproj|d:\\.net_training\\flights\\flight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FE8F3C-9EF3-42A1-9D1E-CD00279F6F33}|Flight\\Flights.csproj|solutionrelative:flight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FE8F3C-9EF3-42A1-9D1E-CD00279F6F33}|Flight\\Flights.csproj|d:\\.net_training\\flights\\flight\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FE8F3C-9EF3-42A1-9D1E-CD00279F6F33}|Flight\\Flights.csproj|solutionrelative:flight\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Business.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Flights\\Flight\\Business.cs",
+              "RelativeDocumentMoniker": "Flight\\Business.cs",
+              "ToolTip": "D:\\.Net_Training\\Flights\\Flight\\Business.cs",
+              "RelativeToolTip": "Flight\\Business.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:27:59.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "International.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Flights\\Flight\\International.cs",
+              "RelativeDocumentMoniker": "Flight\\International.cs",
+              "ToolTip": "D:\\.Net_Training\\Flights\\Flight\\International.cs",
+              "RelativeToolTip": "Flight\\International.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:27:38.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Domestic.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Flights\\Flight\\Domestic.cs",
+              "RelativeDocumentMoniker": "Flight\\Domestic.cs",
+              "ToolTip": "D:\\.Net_Training\\Flights\\Flight\\Domestic.cs",
+              "RelativeToolTip": "Flight\\Domestic.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:27:20.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Flights\\Flight\\Flight.cs",
+              "RelativeDocumentMoniker": "Flight\\Flight.cs",
+              "ToolTip": "D:\\.Net_Training\\Flights\\Flight\\Flight.cs",
+              "RelativeToolTip": "Flight\\Flight.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:27:02.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Flights\\Flight\\Program.cs",
+              "RelativeDocumentMoniker": "Flight\\Program.cs",
+              "ToolTip": "D:\\.Net_Training\\Flights\\Flight\\Program.cs",
+              "RelativeToolTip": "Flight\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:21:10.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

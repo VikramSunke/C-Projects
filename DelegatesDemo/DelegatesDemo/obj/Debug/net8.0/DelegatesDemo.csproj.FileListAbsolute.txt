@@ -1,0 +1,14 @@
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.exe
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.deps.json
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.runtimeconfig.json
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.dll
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.pdb
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.AssemblyInfoInputs.cache
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.AssemblyInfo.cs
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.dll
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\refint\DelegatesDemo.dll
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.pdb
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.genruntimeconfig.cache
+D:\.Net_Training\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\ref\DelegatesDemo.dll

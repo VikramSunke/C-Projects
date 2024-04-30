@@ -1,0 +1,14 @@
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+D:\.Net_Training\CollectionsDemo\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll

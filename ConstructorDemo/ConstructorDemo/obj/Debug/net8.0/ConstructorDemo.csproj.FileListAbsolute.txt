@@ -1,0 +1,14 @@
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\obj\Debug\net8.0\ConstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\obj\Debug\net8.0\ConstructorDemo.AssemblyInfoInputs.cache
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\obj\Debug\net8.0\ConstructorDemo.AssemblyInfo.cs
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\obj\Debug\net8.0\ConstructorDemo.csproj.CoreCompileInputs.cache
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\bin\Debug\net8.0\ConstructorDemo.exe
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\bin\Debug\net8.0\ConstructorDemo.deps.json
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\bin\Debug\net8.0\ConstructorDemo.runtimeconfig.json
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\bin\Debug\net8.0\ConstructorDemo.dll
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\bin\Debug\net8.0\ConstructorDemo.pdb
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\obj\Debug\net8.0\ConstructorDemo.dll
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\obj\Debug\net8.0\refint\ConstructorDemo.dll
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\obj\Debug\net8.0\ConstructorDemo.pdb
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\obj\Debug\net8.0\ConstructorDemo.genruntimeconfig.cache
+D:\.Net_Training\ConstructorDemo\ConstructorDemo\obj\Debug\net8.0\ref\ConstructorDemo.dll

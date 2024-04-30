@@ -1,0 +1,14 @@
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.exe
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.deps.json
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.runtimeconfig.json
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.dll
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.pdb
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfoInputs.cache
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfo.cs
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.dll
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\refint\CollectionsDemo.dll
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.pdb
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.genruntimeconfig.cache
+D:\.Net_Training\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\ref\CollectionsDemo.dll

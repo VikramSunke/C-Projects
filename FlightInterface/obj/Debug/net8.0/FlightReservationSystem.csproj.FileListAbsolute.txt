@@ -1,0 +1,14 @@
+D:\DotNetTraining\Day3\FlightReservationSystem\bin\Debug\net8.0\FlightReservationSystem.exe
+D:\DotNetTraining\Day3\FlightReservationSystem\bin\Debug\net8.0\FlightReservationSystem.deps.json
+D:\DotNetTraining\Day3\FlightReservationSystem\bin\Debug\net8.0\FlightReservationSystem.runtimeconfig.json
+D:\DotNetTraining\Day3\FlightReservationSystem\bin\Debug\net8.0\FlightReservationSystem.dll
+D:\DotNetTraining\Day3\FlightReservationSystem\bin\Debug\net8.0\FlightReservationSystem.pdb
+D:\DotNetTraining\Day3\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetTraining\Day3\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.AssemblyInfoInputs.cache
+D:\DotNetTraining\Day3\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.AssemblyInfo.cs
+D:\DotNetTraining\Day3\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.csproj.CoreCompileInputs.cache
+D:\DotNetTraining\Day3\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.dll
+D:\DotNetTraining\Day3\FlightReservationSystem\obj\Debug\net8.0\refint\FlightReservationSystem.dll
+D:\DotNetTraining\Day3\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.pdb
+D:\DotNetTraining\Day3\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.genruntimeconfig.cache
+D:\DotNetTraining\Day3\FlightReservationSystem\obj\Debug\net8.0\ref\FlightReservationSystem.dll

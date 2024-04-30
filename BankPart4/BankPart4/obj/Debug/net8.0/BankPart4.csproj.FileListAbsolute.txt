@@ -1,0 +1,14 @@
+D:\.Net_Training\BankPart4\BankPart4\bin\Debug\net8.0\BankPart4.exe
+D:\.Net_Training\BankPart4\BankPart4\bin\Debug\net8.0\BankPart4.deps.json
+D:\.Net_Training\BankPart4\BankPart4\bin\Debug\net8.0\BankPart4.runtimeconfig.json
+D:\.Net_Training\BankPart4\BankPart4\bin\Debug\net8.0\BankPart4.dll
+D:\.Net_Training\BankPart4\BankPart4\bin\Debug\net8.0\BankPart4.pdb
+D:\.Net_Training\BankPart4\BankPart4\obj\Debug\net8.0\BankPart4.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net_Training\BankPart4\BankPart4\obj\Debug\net8.0\BankPart4.AssemblyInfoInputs.cache
+D:\.Net_Training\BankPart4\BankPart4\obj\Debug\net8.0\BankPart4.AssemblyInfo.cs
+D:\.Net_Training\BankPart4\BankPart4\obj\Debug\net8.0\BankPart4.csproj.CoreCompileInputs.cache
+D:\.Net_Training\BankPart4\BankPart4\obj\Debug\net8.0\BankPart4.dll
+D:\.Net_Training\BankPart4\BankPart4\obj\Debug\net8.0\refint\BankPart4.dll
+D:\.Net_Training\BankPart4\BankPart4\obj\Debug\net8.0\BankPart4.pdb
+D:\.Net_Training\BankPart4\BankPart4\obj\Debug\net8.0\BankPart4.genruntimeconfig.cache
+D:\.Net_Training\BankPart4\BankPart4\obj\Debug\net8.0\ref\BankPart4.dll

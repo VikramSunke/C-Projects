@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Training\\Day2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B18221E5-2C8A-4E5D-AA2F-2A21C4DC6789}|Project02\\Project02.csproj|d:\\.net_training\\day2\\project02\\markscalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18221E5-2C8A-4E5D-AA2F-2A21C4DC6789}|Project02\\Project02.csproj|solutionrelative:project02\\markscalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18221E5-2C8A-4E5D-AA2F-2A21C4DC6789}|Project02\\Project02.csproj|d:\\.net_training\\day2\\project02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18221E5-2C8A-4E5D-AA2F-2A21C4DC6789}|Project02\\Project02.csproj|solutionrelative:project02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDE3D3D-9FE0-43DA-97BB-6F456B2FB83C}|Project01\\Project01.csproj|d:\\.net_training\\day2\\project01\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDE3D3D-9FE0-43DA-97BB-6F456B2FB83C}|Project01\\Project01.csproj|solutionrelative:project01\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDE3D3D-9FE0-43DA-97BB-6F456B2FB83C}|Project01\\Project01.csproj|d:\\.net_training\\day2\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDE3D3D-9FE0-43DA-97BB-6F456B2FB83C}|Project01\\Project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDE3D3D-9FE0-43DA-97BB-6F456B2FB83C}|Project01\\Project01.csproj|d:\\.net_training\\day2\\project01\\project01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEDE3D3D-9FE0-43DA-97BB-6F456B2FB83C}|Project01\\Project01.csproj|solutionrelative:project01\\project01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18221E5-2C8A-4E5D-AA2F-2A21C4DC6789}|Project02\\Project02.csproj|d:\\.net_training\\day2\\project02\\project02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B18221E5-2C8A-4E5D-AA2F-2A21C4DC6789}|Project02\\Project02.csproj|solutionrelative:project02\\project02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18221E5-2C8A-4E5D-AA2F-2A21C4DC6789}|Project02\\Project02.csproj|d:\\.net_training\\day2\\project02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18221E5-2C8A-4E5D-AA2F-2A21C4DC6789}|Project02\\Project02.csproj|solutionrelative:project02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18221E5-2C8A-4E5D-AA2F-2A21C4DC6789}|Project02\\Project02.csproj|d:\\.net_training\\day2\\project02\\project02.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B18221E5-2C8A-4E5D-AA2F-2A21C4DC6789}|Project02\\Project02.csproj|solutionrelative:project02\\project02.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDE3D3D-9FE0-43DA-97BB-6F456B2FB83C}|Project01\\Project01.csproj|d:\\.net_training\\day2\\project01\\project01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EEDE3D3D-9FE0-43DA-97BB-6F456B2FB83C}|Project01\\Project01.csproj|solutionrelative:project01\\project01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarksCalculate.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Day2\\Project02\\MarksCalculate.cs",
+              "RelativeDocumentMoniker": "Project02\\MarksCalculate.cs",
+              "ToolTip": "D:\\.Net_Training\\Day2\\Project02\\MarksCalculate.cs",
+              "RelativeToolTip": "Project02\\MarksCalculate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:46:42.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project02",
+              "DocumentMoniker": "D:\\.Net_Training\\Day2\\Project02\\Project02.csproj",
+              "RelativeDocumentMoniker": "Project02\\Project02.csproj",
+              "ToolTip": "D:\\.Net_Training\\Day2\\Project02\\Project02.csproj",
+              "RelativeToolTip": "Project02\\Project02.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T10:52:14.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Day2\\Project02\\Student.cs",
+              "RelativeDocumentMoniker": "Project02\\Student.cs",
+              "ToolTip": "D:\\.Net_Training\\Day2\\Project02\\Student.cs",
+              "RelativeToolTip": "Project02\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:15:22.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Day2\\Project02\\Program.cs",
+              "RelativeDocumentMoniker": "Project02\\Program.cs",
+              "ToolTip": "D:\\.Net_Training\\Day2\\Project02\\Program.cs",
+              "RelativeToolTip": "Project02\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:57:05.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project01.csproj",
+              "DocumentMoniker": "D:\\.Net_Training\\Day2\\Project01\\Project01.csproj",
+              "RelativeDocumentMoniker": "Project01\\Project01.csproj",
+              "ToolTip": "D:\\.Net_Training\\Day2\\Project01\\Project01.csproj",
+              "RelativeToolTip": "Project01\\Project01.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T06:32:52.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project01",
+              "DocumentMoniker": "D:\\.Net_Training\\Day2\\Project01\\Project01.csproj",
+              "RelativeDocumentMoniker": "Project01\\Project01.csproj",
+              "ToolTip": "D:\\.Net_Training\\Day2\\Project01\\Project01.csproj",
+              "RelativeToolTip": "Project01\\Project01.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T07:05:03.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Day2\\Project01\\Product.cs",
+              "RelativeDocumentMoniker": "Project01\\Product.cs",
+              "ToolTip": "D:\\.Net_Training\\Day2\\Project01\\Product.cs",
+              "RelativeToolTip": "Project01\\Product.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwDsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:33:31.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Day2\\Project01\\Program.cs",
+              "RelativeDocumentMoniker": "Project01\\Program.cs",
+              "ToolTip": "D:\\.Net_Training\\Day2\\Project01\\Program.cs",
+              "RelativeToolTip": "Project01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:26:31.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project02.csproj",
+              "DocumentMoniker": "D:\\.Net_Training\\Day2\\Project02\\Project02.csproj",
+              "RelativeDocumentMoniker": "Project02\\Project02.csproj",
+              "ToolTip": "D:\\.Net_Training\\Day2\\Project02\\Project02.csproj",
+              "RelativeToolTip": "Project02\\Project02.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T10:13:48.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
